@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-20T06:51:55.331Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" etag="m6N16QRY3X2jpFjsefiv" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-20T07:09:02.188Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" etag="EJoPQuMkziJWzG3n25Bk" version="14.9.8" type="github">
   <diagram id="HHThTFF3kaM29xGKlaXV" name="Page-1">
-    <mxGraphModel dx="1669" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1910" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,8 +81,8 @@
         <mxCell id="NF2yhESSKYTmsXL2PAX3-39" value="&lt;span style=&quot;color: rgb(69 , 69 , 69) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;E2E Testing Validate&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="700" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NF2yhESSKYTmsXL2PAX3-44" value="&lt;ol style=&quot;font-size: 24px&quot;&gt;&lt;li style=&quot;font-size: 24px&quot;&gt;工程化&lt;/li&gt;&lt;li style=&quot;font-size: 24px&quot;&gt;ts 类型系统&lt;/li&gt;&lt;li style=&quot;font-size: 24px&quot;&gt;可测试性&lt;/li&gt;&lt;li style=&quot;font-size: 24px&quot;&gt;orm&lt;/li&gt;&lt;li style=&quot;font-size: 24px&quot;&gt;数据表设计&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontSize=24;horizontal=1;lineHeight=1.5" parent="1" vertex="1">
-          <mxGeometry x="-110" y="850" width="420" height="240" as="geometry" />
+        <mxCell id="NF2yhESSKYTmsXL2PAX3-44" value="&lt;ol style=&quot;font-size: 24px&quot;&gt;&lt;li style=&quot;font-size: 24px&quot;&gt;工程化&lt;/li&gt;&lt;li style=&quot;font-size: 24px&quot;&gt;环境切分&lt;/li&gt;&lt;li style=&quot;font-size: 24px&quot;&gt;sourcemap&lt;/li&gt;&lt;li style=&quot;font-size: 24px&quot;&gt;session 的重新定义&lt;/li&gt;&lt;li style=&quot;font-size: 24px&quot;&gt;浏览器 sdk 路由&lt;/li&gt;&lt;li style=&quot;font-size: 24px&quot;&gt;ts 类型系统&lt;/li&gt;&lt;li style=&quot;font-size: 24px&quot;&gt;可测试性&lt;/li&gt;&lt;li style=&quot;font-size: 24px&quot;&gt;orm&lt;/li&gt;&lt;li style=&quot;font-size: 24px&quot;&gt;数据表设计&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontSize=24;horizontal=1;lineHeight=1.5" parent="1" vertex="1">
+          <mxGeometry x="-110" y="800" width="420" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
